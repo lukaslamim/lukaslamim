@@ -8,7 +8,7 @@
 
 - 📫 U can reach me lukas.lamim@hotmail.com
 
-<h3 align="left">💻 about me: </h3>
+<h3 align="left">😉 about me: </h3>
 
 **Sou um desenvolvedor back-end, sempre adorei lógica de programação, estrutura de dados e algoritmos, 
 por essa razão decidir seguir carreira na área de dev**
