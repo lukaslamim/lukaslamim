@@ -21,7 +21,7 @@ por essa razão decidir seguir carreira na área de dev**
 <h3 align="left">💻 Solid knowledge languages </h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![C](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c++&logoColor=white)
-![Advpl](https://img.shields.io/badge/advpl-3670A0?style=for-the-badge&logo=advpl&logoColor=blue)
+![Advpl](https://img.shields.io/badge/advpl-3670A0?style=for-the-badge&logo=advpl&logoColor=blue)    ![TypeScript](https://img.shields.io/badge/typescript-%2300599C.svg?style=for-the-badge&logo=c++&logoColor=white)
 
 <h3 align="left">🐱‍🏍 Learning Languages </h3>
 
