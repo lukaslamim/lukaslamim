@@ -10,8 +10,7 @@
 
 <h3 align="left">😉 about me: </h3>
 
-**Sou um desenvolvedor back-end, sempre adorei lógica de programação, estrutura de dados e algoritmos, 
-por essa razão decidir seguir carreira na área de dev**
+**I am a dedicated back-end developer with a strong passion for the core principles of programming, including logic, data structures, and algorithms. My expertise lies in building efficient, scalable systems and writing clean, maintainable code. Over the years, I have honed my skills in problem-solving and optimizing performance, which has fueled my commitment to back-end development. This passion for the foundational elements of coding drives my desire to constantly learn, adapt, and contribute to creating robust, high-performing software solutions**
 
 <h3 align="left">⭐️ Connect with me: </h3>
 <p align="left">
