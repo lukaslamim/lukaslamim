@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Lamim</h1>
 <h3 align="center">A back-end developer</h3>
 
-- 🌱 Enthusiastic software developer student
+- 🌱 Enthusiastic software developer
 
 - 👨‍💻 All of my projects are available at [github.com/lukaslamim](github.com/lukaslamim)
 
