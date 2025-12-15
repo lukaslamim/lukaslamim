@@ -39,8 +39,3 @@
 <h3 align="left">☕️ Tools </h3>
 
  ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-
-<h3 align="left">📊 GitHub Stats: </h3>
-
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=lukaslamim&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api?username=lukaslamim&theme=dark&hide_border=false&include_all_commits=true) |
-| :-: | :-: |
